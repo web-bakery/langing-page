@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to the Web Bakery
 
-You can use the [editor on GitHub](https://github.com/web-bakery/langing-page/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+> We help to build the new web!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We support you to bring your idea to the web. With the strong interdisciplinary web baker community and newest technologies, we build the web for the future. We create and publish the website, write content and design images and logos. 
+Just contact us! 
 
-### Markdown
+## Why Web Bakery
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Your Website - Your App - Your Code
+We build a website, which can be downloaded on the homescreen of your mobile devise as an appplication. And you can use with application without internet connection. Thats possible with the newest web technologies and its called PWA applications (progressive web apps) or like we called it "Personal Web Apps".
 
-```markdown
-Syntax highlighted code block
+### One for all, and all for one
+We have an interdisciplinary community with coders, designers, writers and much more - everything what you need to create a good website.
 
-# Header 1
-## Header 2
-### Header 3
+### We love open source and non-profit
+All our software we use and build is open source and available for everyone. We also support non profit websites for free.   
 
-- Bulleted
-- List
+## Our Values 
 
-1. Numbered
-2. List
+### User first
 
-**Bold** and _Italic_ and `Code` text
+#### Simplicity
+#### Data Privacy and Protection
+#### Fast
+#### Secure
+#### Lightweigth
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/web-bakery/langing-page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
